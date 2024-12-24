@@ -13,7 +13,7 @@ Make sure you have the **ros2_aruco** package installed before proceeding.
 First, clone this package to your workspace:
 ```bash
 cd ~/ros2_ws/src
-git clone git@github.com:AlvinIsac/robot_urdf.git
+git clone https://github.com/AlvinIsac/robot_urdf.git
 ```
 
 ### 2. Build and Source the Package
