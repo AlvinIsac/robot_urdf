@@ -42,7 +42,7 @@ ros2 launch robot_urdf gazebo_hw.launch.py
   - A robot will spawn in the Gazebo environment.
   - The `aruco_node` will start for marker detection.
 
-**Note**: Wait for Gazebo to fully launch before proceeding.
+**Note**: **Wait for Gazebo to fully launch before proceeding.**
 
 ---
 
