@@ -1,6 +1,4 @@
 ## Demo Video 
-[[Watch the Demo Video](https://github.com/AlvinIsac/robot_urdf/releases/download/v1.0.0/Result_exprob1.mp4)](https://github.com/AlvinIsac/robot_urdf/blob/solution-video/media/Result_exprob1.mp4)
-
 
 
 # Assignment for Experimental Robotics
