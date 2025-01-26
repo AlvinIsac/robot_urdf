@@ -68,18 +68,6 @@ ros2 run robot_urdf rotate_robot.py
 
 ---
 
-Open the second terminal and run this command:
-```bash
-ros2 run robot_urdf rotate_robot.py
-```
-
-- **What Happens**:
-  - The robot will perform a full 360-degree rotation.
-  - During the rotation, it scans all the marker IDs in the environment.
-  - The script identifies the marker with the **lowest ID**.
-  - The robot then rotates counterclockwise and stops at the lowest marker ID.
-
----
 
 ## Customization
 
