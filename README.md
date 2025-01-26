@@ -1,6 +1,7 @@
 ## Video Result
 
-[Watch the demo video](https://youtu.be/ZcMkvX-ebTU)
+[![Watch the demo video](https://img.youtube.com/vi/ZcMkvX-ebTU/0.jpg)](https://youtu.be/ZcMkvX-ebTU)
+
 
 
 
