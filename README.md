@@ -53,6 +53,21 @@ ros2 launch robot_urdf gazebo_hw.launch.py
 
 ### Step 2: Run the Rotation Script
 
+**Note**: Please adjust the speed and time variables in the script based on your system's performance. This script is designed to run in a Docker environment on macOS.
+
+Open the second terminal and run this command:
+```bash
+ros2 run robot_urdf rotate_robot.py
+```
+
+- **What Happens**:
+  - The robot will perform a full 360-degree rotation.
+  - During the rotation, it scans all the marker IDs in the environment.
+  - The script identifies the marker with the **lowest ID**.
+  - The robot then rotates counterclockwise and stops at the lowest marker ID.
+
+---
+
 Open the second terminal and run this command:
 ```bash
 ros2 run robot_urdf rotate_robot.py
